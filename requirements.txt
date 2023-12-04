@@ -1,0 +1,8 @@
+numpy==1.23.1
+pandas==1.4.3
+streamlit
+pip==22.0.4
+streamlit_option_menu
+PIL
+cv2
+base64
